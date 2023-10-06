@@ -35,5 +35,5 @@ More info about dataset can be found here:
 
 ## Dashboard
 You can get access to the dashboard by going to this link --https://lookerstudio.google.com/s/rH5GRhVanuM
-<img src="Dashboard.jpeg">
+<img src="Dashboard.png">
 
